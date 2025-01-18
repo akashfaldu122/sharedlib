@@ -1,0 +1,6 @@
+@Library('mylib') _
+
+stage('Demo')
+{
+    hello()
+}
