@@ -1,4 +1,4 @@
 def call()
   {
-    echo "helllllo"
+    mkdir /home/ubuntu akash1
   }
