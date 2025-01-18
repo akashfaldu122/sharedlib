@@ -1,4 +1,4 @@
 def call()
   {
-    mkdir akash1 aksh2
+    mkdir akash1
   }
