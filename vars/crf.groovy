@@ -1,4 +1,4 @@
 def call()
   {
-    sh mkdir /home/ubuntu akash1
+    sh 'mkdir /home/ubuntu akash1'
   }
