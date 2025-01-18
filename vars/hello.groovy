@@ -1,4 +1,4 @@
-def call()
+def call(string jan)
 {
-    echo "hello akash"
+    echo "hello ${jan}"
 }
